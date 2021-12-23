@@ -1001,7 +1001,23 @@ five points of inquiry:
 
 (5) Whether there can be moral virtue without passion?
 "
-59,QUESTION 61,OF THE CARDINAL VIRTUES,In Five Articles,"We must now consider the cardinal virtues: under which head there are
+59,QUESTION 60,HOW THE MORAL VIRTUES DIFFER FROM ONE ANOTHER,In Five Articles,"We must now consider how the moral virtues differ from one another:
+under which head there are five points of inquiry:
+
+(1) Whether there is only one moral virtue?
+
+(2) Whether those moral virtues which are about operations, are
+distinct from those which are about passions?
+
+(3) Whether there is but one moral virtue about operations?
+
+(4) Whether there are different moral virtues about different
+passions?
+
+(5) Whether the moral virtues differ in point of the various objects
+of the passions?
+"
+60,QUESTION 61,OF THE CARDINAL VIRTUES,In Five Articles,"We must now consider the cardinal virtues: under which head there are
 five points of inquiry:
 
 (1) Whether the moral virtues should be called cardinal or principal
@@ -1016,7 +1032,7 @@ virtues?
 (5) Whether they are fittingly divided into social, perfecting,
 perfect, and exemplar virtues?
 "
-60,QUESTION 62,OF THE THEOLOGICAL VIRTUES,In Four Articles,"We must now consider the Theological Virtues: under which head there
+61,QUESTION 62,OF THE THEOLOGICAL VIRTUES,In Four Articles,"We must now consider the Theological Virtues: under which head there
 are four points of inquiry:
 
 (1) Whether there are any theological virtues?
@@ -1028,7 +1044,7 @@ and moral virtues?
 
 (4) Of their order.
 "
-61,QUESTION 63,OF THE CAUSE OF VIRTUES,In Four Articles,"We must now consider the cause of virtues; and under this head there
+62,QUESTION 63,OF THE CAUSE OF VIRTUES,In Four Articles,"We must now consider the cause of virtues; and under this head there
 are four points of inquiry:
 
 (1) Whether virtue is in us by nature?
@@ -1040,7 +1056,7 @@ are four points of inquiry:
 (4) Whether virtue acquired by habituation, is of the same species
 as infused virtue?
 "
-62,QUESTION 64,OF THE MEAN OF VIRTUE,In Four Articles,"We must now consider the properties of virtues: and (1) the mean of
+63,QUESTION 64,OF THE MEAN OF VIRTUE,In Four Articles,"We must now consider the properties of virtues: and (1) the mean of
 virtue, (2) the connection between virtues, (3) equality of virtues,
 (4) the duration of virtues. Under the first head there are four
 points of inquiry:
@@ -1054,7 +1070,7 @@ mean?
 
 (4) Whether the theological virtues do?
 "
-63,QUESTION 65,OF THE CONNECTION OF VIRTUES,In Five Articles,"We must now consider the connection of virtues: under which head
+64,QUESTION 65,OF THE CONNECTION OF VIRTUES,In Five Articles,"We must now consider the connection of virtues: under which head
 there are five points of inquiry:
 
 (1) Whether the moral virtues are connected with one another?
@@ -1067,7 +1083,7 @@ there are five points of inquiry:
 
 (5) Whether charity can be without them?
 "
-64,QUESTION 66,OF EQUALITY AMONG THE VIRTUES,In Six Articles,"We must now consider equality among the virtues: under which head
+65,QUESTION 66,OF EQUALITY AMONG THE VIRTUES,In Six Articles,"We must now consider equality among the virtues: under which head
 there are six points of inquiry:
 
 (1) Whether one virtue can be greater or less than another?
@@ -1083,7 +1099,7 @@ equal?
 
 (6) Of the theological virtues in comparison with one another.
 "
-65,QUESTION 67,OF THE DURATION OF VIRTUES AFTER THIS LIFE,In Six Articles,"We must now consider the duration of virtues after this life, under
+66,QUESTION 67,OF THE DURATION OF VIRTUES AFTER THIS LIFE,In Six Articles,"We must now consider the duration of virtues after this life, under
 which head there are six points of inquiry:
 
 (1) Whether the moral virtues remain after this life?
@@ -1098,7 +1114,7 @@ which head there are six points of inquiry:
 
 (6) Whether charity remains?
 "
-66,QUESTION 68,OF THE GIFTS,In Eight Articles,"We now come to consider the Gifts; under which head there are eight
+67,QUESTION 68,OF THE GIFTS,In Eight Articles,"We now come to consider the Gifts; under which head there are eight
 points of inquiry:
 
 (1) Whether the Gifts differ from the virtues?
@@ -1117,7 +1133,7 @@ points of inquiry:
 
 (8) Of their comparison with the virtues.
 "
-67,QUESTION 69,OF THE BEATITUDES,In Four Articles,"We must now consider the beatitudes: under which head there are four
+68,QUESTION 69,OF THE BEATITUDES,In Four Articles,"We must now consider the beatitudes: under which head there are four
 points of inquiry:
 
 (1) Whether the beatitudes differ from the gifts and virtues?
@@ -1128,7 +1144,7 @@ points of inquiry:
 
 (4) Of the fittingness of the rewards ascribed to the beatitudes.
 "
-68,QUESTION 70,OF THE FRUITS OF THE HOLY GHOST,In Four Articles,"We must now consider the Fruits of the Holy Ghost: under which head
+69,QUESTION 70,OF THE FRUITS OF THE HOLY GHOST,In Four Articles,"We must now consider the Fruits of the Holy Ghost: under which head
 there are four points of inquiry:
 
 (1) Whether the fruits of the Holy Ghost are acts?
@@ -1139,7 +1155,7 @@ there are four points of inquiry:
 
 (4) Of their opposition to the works of the flesh.
 "
-69,QUESTION 71,OF VICE AND SIN CONSIDERED IN THEMSELVES,In Six Articles,"We have in the next place to consider vice and sin: about which six
+70,QUESTION 71,OF VICE AND SIN CONSIDERED IN THEMSELVES,In Six Articles,"We have in the next place to consider vice and sin: about which six
 points have to be considered: (1) Vice and sin considered in
 themselves; (2) their distinction; (3) their comparison with one
 another; (4) the subject of sin; (5) the cause of sin; (6) the effect
@@ -1160,7 +1176,7 @@ Under the first head there are six points of inquiry:
 (6) Of the definition of sin proposed by Augustine (Contra Faust.
 xxii): ""Sin is a word, deed, or desire against the eternal law.""
 "
-70,QUESTION 72,OF THE DISTINCTION OF SINS,In Nine Articles,"We must now consider the distinction of sins or vices: under which
+71,QUESTION 72,OF THE DISTINCTION OF SINS,In Nine Articles,"We must now consider the distinction of sins or vices: under which
 head there are nine points of inquiry:
 
 (1) Whether sins are distinguished specifically by their objects?
@@ -1181,7 +1197,7 @@ head there are nine points of inquiry:
 
 (9) Whether they differ according to their various circumstances?
 "
-71,QUESTION 73,OF THE COMPARISON OF ONE SIN WITH ANOTHER,In Ten Articles,"We must now consider the comparison of one sin with another: under
+72,QUESTION 73,OF THE COMPARISON OF ONE SIN WITH ANOTHER,In Ten Articles,"We must now consider the comparison of one sin with another: under
 which head there are ten points of inquiry:
 
 (1) Whether all sins and vices are connected with one another?
@@ -1206,7 +1222,7 @@ opposed?
 (10) Whether sin is aggravated by reason of the excellence of the
 person sinning?
 "
-72,QUESTION 74,OF THE SUBJECT OF SIN,In Ten Articles,"We must now consider the subject of vice or sin: under which head
+73,QUESTION 74,OF THE SUBJECT OF SIN,In Ten Articles,"We must now consider the subject of vice or sin: under which head
 there are ten points of inquiry:
 
 (1) Whether the will can be the subject of sin?
@@ -1232,7 +1248,7 @@ higher reason?
 (10) Whether there can be in the higher reason a venial sin directed
 to its proper object?
 "
-73,QUESTION 75,"OF THE CAUSES OF SIN, IN GENERAL",In Four Articles,"We must now consider the causes of sin: (1) in general; (2) in
+74,QUESTION 75,"OF THE CAUSES OF SIN, IN GENERAL",In Four Articles,"We must now consider the causes of sin: (1) in general; (2) in
 particular. Under the first head there are four points of inquiry:
 
 (1) Whether sin has a cause?
@@ -1243,7 +1259,7 @@ particular. Under the first head there are four points of inquiry:
 
 (4) Whether one sin is the cause of another?
 "
-74,QUESTION 76,"OF THE CAUSES OF SIN, IN PARTICULAR",In Four Articles,"We must now consider the causes of sin, in particular, and (1) The
+75,QUESTION 76,"OF THE CAUSES OF SIN, IN PARTICULAR",In Four Articles,"We must now consider the causes of sin, in particular, and (1) The
 internal causes of sin; (2) its external causes; and (3) sins which
 are the causes of other sins. In view of what has been said above (A.
 2), the first consideration will be threefold: so that in the first
@@ -1262,7 +1278,7 @@ Under the first head, there are four points of inquiry:
 
 (4) Whether it diminishes sin?
 "
-75,QUESTION 77,"OF THE CAUSE OF SIN, ON THE PART OF THE SENSITIVE APPETITE",In Eight Articles,"We must now consider the cause of sin, on the part of the sensitive
+76,QUESTION 77,"OF THE CAUSE OF SIN, ON THE PART OF THE SENSITIVE APPETITE",In Eight Articles,"We must now consider the cause of sin, on the part of the sensitive
 appetite, as to whether a passion of the soul may be a cause of sin:
 and under this head there are eight points of inquiry:
 
@@ -1284,7 +1300,7 @@ eyes, Concupiscence of the flesh,"" and ""Pride of life.""
 
 (8) Whether a sin committed through passion can be mortal?
 "
-76,QUESTION 78,OF THAT CAUSE OF SIN WHICH IS MALICE,In Four Articles,"We must now consider the cause of sin on the part of the will, viz.
+77,QUESTION 78,OF THAT CAUSE OF SIN WHICH IS MALICE,In Four Articles,"We must now consider the cause of sin on the part of the will, viz.
 malice: and under this head there are four points of inquiry:
 
 (1) Whether it is possible for anyone to sin through certain malice,
@@ -1299,7 +1315,7 @@ habit?
 (4) Whether it is more grievous to sin through certain malice, than
 through passion?
 "
-77,QUESTION 79,OF THE EXTERNAL CAUSES OF SIN,In Four Articles,"We must now consider the external causes of sin, and (1) on the part
+78,QUESTION 79,OF THE EXTERNAL CAUSES OF SIN,In Four Articles,"We must now consider the external causes of sin, and (1) on the part
 of God; (2) on the part of the devil; (3) on the part of man.
 
 Under the first head there are four points of inquiry:
@@ -1314,7 +1330,7 @@ heart?
 (4) Whether these things are directed to the salvation of those who
 are blinded or hardened?
 "
-78,QUESTION 80,"OF THE CAUSE OF SIN, AS REGARDS THE DEVIL",In Four Articles,"We must now consider the cause of sin, as regards the devil; and
+79,QUESTION 80,"OF THE CAUSE OF SIN, AS REGARDS THE DEVIL",In Four Articles,"We must now consider the cause of sin, as regards the devil; and
 under this head there are four points of inquiry:
 
 (1) Whether the devil is directly the cause of sin?
@@ -1325,7 +1341,7 @@ under this head there are four points of inquiry:
 
 (4) Whether all sins are due to the devil's suggestion?
 "
-79,QUESTION 81,"OF THE CAUSE OF SIN, ON THE PART OF MAN",In Five Articles,"We must now consider the cause of sin, on the part of man. Now, while
+80,QUESTION 81,"OF THE CAUSE OF SIN, ON THE PART OF MAN",In Five Articles,"We must now consider the cause of sin, on the part of man. Now, while
 man, like the devil, is the cause of another's sin, by outward
 suggestion, he has a certain special manner of causing sin, by way of
 origin. Wherefore we must speak about original sin, the consideration
@@ -1349,7 +1365,7 @@ some part of the human body?
 (5) Whether original sin would have been contracted if the woman, and
 not the man, had sinned?
 "
-80,QUESTION 82,"OF ORIGINAL SIN, AS TO ITS ESSENCE",In Four Articles,"We must now consider original sin as to its essence, and under this
+81,QUESTION 82,"OF ORIGINAL SIN, AS TO ITS ESSENCE",In Four Articles,"We must now consider original sin as to its essence, and under this
 head there are four points of inquiry:
 
 (1) Whether original sin is a habit?
@@ -1360,7 +1376,7 @@ head there are four points of inquiry:
 
 (4) Whether original sin is equally in all?
 "
-81,QUESTION 83,OF THE SUBJECT OF ORIGINAL SIN,In Four Articles,"We must now consider the subject of original sin, under which head
+82,QUESTION 83,OF THE SUBJECT OF ORIGINAL SIN,In Four Articles,"We must now consider the subject of original sin, under which head
 there are four points of inquiry:
 
 (1) Whether the subject of original sin is the flesh rather than the
@@ -1375,7 +1391,7 @@ original sin?
 (4) Whether certain powers of the soul are specially infected, viz.
 the generative power, the concupiscible part, and the sense of touch?
 "
-82,QUESTION 84,"OF THE CAUSE OF SIN, IN RESPECT OF ONE SIN BEING THE CAUSE OF ANOTHER",In Four Articles,"We must now consider the cause of sin, in so far as one sin can be
+83,QUESTION 84,"OF THE CAUSE OF SIN, IN RESPECT OF ONE SIN BEING THE CAUSE OF ANOTHER",In Four Articles,"We must now consider the cause of sin, in so far as one sin can be
 the cause of another. Under this head there are four points of
 inquiry:
 
@@ -1388,7 +1404,7 @@ besides pride and covetousness?
 
 (4) How many capital vices there are, and which are they?
 "
-83,QUESTION 85,"OF THE EFFECTS OF SIN, AND, FIRST, OF THE CORRUPTION OF THE GOOD OF NATURE",In Six Articles,"We must now consider the effects of sin; and (1) the corruption of
+84,QUESTION 85,"OF THE EFFECTS OF SIN, AND, FIRST, OF THE CORRUPTION OF THE GOOD OF NATURE",In Six Articles,"We must now consider the effects of sin; and (1) the corruption of
 the good of nature; (2) the stain on the soul; (3) the debt of
 punishment.
 
@@ -1407,14 +1423,14 @@ stricken in consequence of sin.
 
 (6) Whether they are, in any way, natural to man?
 "
-84,QUESTION 86,OF THE STAIN OF SIN,In Two Articles,"We must now consider the stain of sin; under which head there are two
+85,QUESTION 86,OF THE STAIN OF SIN,In Two Articles,"We must now consider the stain of sin; under which head there are two
 points of inquiry:
 
 (1) Whether an effect of sin is a stain on the soul?
 
 (2) Whether it remains in the soul after the act of sin?
 "
-85,QUESTION 87,OF THE DEBT OF PUNISHMENT,In Eight Articles,"We must now consider the debt of punishment. We shall consider (1)
+86,QUESTION 87,OF THE DEBT OF PUNISHMENT,In Eight Articles,"We must now consider the debt of punishment. We shall consider (1)
 the debt itself; (2) mortal and venial sin, which differ in respect
 of the punishment due to them.
 
@@ -1438,7 +1454,7 @@ punishment?
 
 (8) Whether one person can incur punishment for another's sin?
 "
-86,QUESTION 88,OF VENIAL AND MORTAL SIN,In Six Articles,"In the next place, since venial and mortal sins differ in respect of
+87,QUESTION 88,OF VENIAL AND MORTAL SIN,In Six Articles,"In the next place, since venial and mortal sins differ in respect of
 the debt of punishment, we must consider them. First, we shall
 consider venial sin as compared with mortal sin; secondly, we shall
 consider venial sin in itself.
@@ -1458,7 +1474,7 @@ aggravating circumstance?
 
 (6) Whether a mortal sin can become venial?
 "
-87,QUESTION 89,OF VENIAL SIN IN ITSELF,In Six Articles,"We must now consider venial sin in itself, and under this head there
+88,QUESTION 89,OF VENIAL SIN IN ITSELF,In Six Articles,"We must now consider venial sin in itself, and under this head there
 are six points of inquiry:
 
 (1) Whether venial sin causes a stain in the soul?
@@ -1474,7 +1490,7 @@ are six points of inquiry:
 
 (6) Whether venial sin can be in a man with original sin alone?
 "
-88,QUESTION 90,OF THE ESSENCE OF LAW,In Four Articles,"We have now to consider the extrinsic principles of acts. Now the
+89,QUESTION 90,OF THE ESSENCE OF LAW,In Four Articles,"We have now to consider the extrinsic principles of acts. Now the
 extrinsic principle inclining to evil is the devil, of whose
 temptations we have spoken in the First Part (Q. 114). But the
 extrinsic principle moving to good is God, Who both instructs us by
@@ -1496,7 +1512,7 @@ Under the first head there are four points of inquiry:
 
 (4) The promulgation of law.
 "
-89,QUESTION 91,OF THE VARIOUS KINDS OF LAW,In Six Articles,"We must now consider the various kinds of law: under which head there
+90,QUESTION 91,OF THE VARIOUS KINDS OF LAW,In Six Articles,"We must now consider the various kinds of law: under which head there
 are six points of inquiry:
 
 (1) Whether there is an eternal law?
@@ -1511,7 +1527,7 @@ are six points of inquiry:
 
 (6) Whether there is a law of sin?
 "
-90,QUESTION 92,OF THE EFFECTS OF LAW,In Two articles,"We must now consider the effects of law; under which head there are
+91,QUESTION 92,OF THE EFFECTS OF LAW,In Two articles,"We must now consider the effects of law; under which head there are
 two points of inquiry:
 
 (1) Whether an effect of law is to make men good?
@@ -1519,7 +1535,7 @@ two points of inquiry:
 (2) Whether the effects of law are to command, to forbid, to permit,
 and to punish, as the Jurist states?
 "
-91,QUESTION 93,OF THE ETERNAL LAW,In Six Articles,"We must now consider each law by itself; and (1) The eternal law; (2)
+92,QUESTION 93,OF THE ETERNAL LAW,In Six Articles,"We must now consider each law by itself; and (1) The eternal law; (2)
 The natural law; (3) The human law; (4) The old law; (5) The new law,
 which is the law of the Gospel. Of the sixth law which is the law of
 the _fomes,_ suffice what we have said when treating of original sin.
@@ -1538,7 +1554,7 @@ Concerning the first there are six points of inquiry:
 
 (6) Whether all human things are subject to it?
 "
-92,QUESTION 94,OF THE NATURAL LAW,In Six Articles,"We must now consider the natural law; concerning which there are six
+93,QUESTION 94,OF THE NATURAL LAW,In Six Articles,"We must now consider the natural law; concerning which there are six
 points of inquiry:
 
 (1) What is the natural law?
@@ -1553,7 +1569,7 @@ points of inquiry:
 
 (6) Whether it can be abolished from the heart of man?
 "
-93,QUESTION 95,OF HUMAN LAW,In Four Articles,"We must now consider human law; and (1) this law considered in
+94,QUESTION 95,OF HUMAN LAW,In Four Articles,"We must now consider human law; and (1) this law considered in
 itself; (2) its power; (3) its mutability. Under the first head
 there are four points of inquiry:
 
@@ -1565,7 +1581,7 @@ there are four points of inquiry:
 
 (4) Its division.
 "
-94,QUESTION 96,OF THE POWER OF HUMAN LAW,In Six Articles,"We must now consider the power of human law. Under this head there
+95,QUESTION 96,OF THE POWER OF HUMAN LAW,In Six Articles,"We must now consider the power of human law. Under this head there
 are six points of inquiry:
 
 (1) Whether human law should be framed for the community?
@@ -1581,7 +1597,7 @@ are six points of inquiry:
 (6) Whether those who are under the law may act beside the letter
 of the law?
 "
-95,QUESTION 97,OF CHANGE IN LAWS,In Four Articles,"We must now consider change in laws: under which head there are four
+96,QUESTION 97,OF CHANGE IN LAWS,In Four Articles,"We must now consider change in laws: under which head there are four
 points of inquiry:
 
 (1) Whether human law is changeable?
@@ -1595,7 +1611,7 @@ force of law?
 (4) Whether the application of human law should be changed by
 dispensation of those in authority?
 "
-96,QUESTION 98,OF THE OLD LAW,In Six Articles,"In due sequence we must now consider the Old Law; and (1) The Law
+97,QUESTION 98,OF THE OLD LAW,In Six Articles,"In due sequence we must now consider the Old Law; and (1) The Law
 itself; (2) Its precepts. Under the first head there are six points
 of inquiry:
 
@@ -1611,7 +1627,7 @@ of inquiry:
 
 (6) Whether it was given at a suitable time?
 "
-97,QUESTION 99,OF THE PRECEPTS OF THE OLD LAW,In Six Articles,"We must now consider the precepts of the Old Law; and (1) how they
+98,QUESTION 99,OF THE PRECEPTS OF THE OLD LAW,In Six Articles,"We must now consider the precepts of the Old Law; and (1) how they
 are distinguished from one another; (2) each kind of precept. Under
 the first head there are six points of inquiry:
 
@@ -1628,7 +1644,7 @@ precepts?
 
 (6) How the Old Law induced men to keep its precepts.
 "
-98,QUESTION 100,OF THE MORAL PRECEPTS OF THE OLD LAW,In Twelve Articles,"We must now consider each kind of precept of the Old Law: and (1) the
+99,QUESTION 100,OF THE MORAL PRECEPTS OF THE OLD LAW,In Twelve Articles,"We must now consider each kind of precept of the Old Law: and (1) the
 moral precepts, (2) the ceremonial precepts, (3) the judicial
 precepts. Under the first head there are twelve points of inquiry:
 
@@ -1661,7 +1677,7 @@ of the Law?
 
 (12) Whether the moral precepts of the Old Law justified man?
 "
-99,QUESTION 101,OF THE CEREMONIAL PRECEPTS IN THEMSELVES,In Four Articles,"We must now consider the ceremonial precepts: and first we must
+100,QUESTION 101,OF THE CEREMONIAL PRECEPTS IN THEMSELVES,In Four Articles,"We must now consider the ceremonial precepts: and first we must
 consider them in themselves; secondly, their cause; thirdly, their
 duration. Under the first head there are four points of inquiry:
 
@@ -1673,7 +1689,7 @@ duration. Under the first head there are four points of inquiry:
 
 (4) Of their various kinds.
 "
-100,QUESTION 102,OF THE CAUSES OF THE CEREMONIAL PRECEPTS,In Six Articles,"We must now consider the causes of the ceremonial precepts: under
+101,QUESTION 102,OF THE CAUSES OF THE CEREMONIAL PRECEPTS,In Six Articles,"We must now consider the causes of the ceremonial precepts: under
 which head there are six points of inquiry:
 
 (1) Whether there was any cause for the ceremonial precepts?
@@ -1689,7 +1705,7 @@ figurative?
 
 (6) The causes of the observances.
 "
-101,QUESTION 103,OF THE DURATION OF THE CEREMONIAL PRECEPTS,In Four Articles,"We must now consider the duration of the ceremonial precepts: under
+102,QUESTION 103,OF THE DURATION OF THE CEREMONIAL PRECEPTS,In Four Articles,"We must now consider the duration of the ceremonial precepts: under
 which head there are four points of inquiry:
 
 (1) Whether the ceremonial precepts were in existence before the Law?
@@ -1702,7 +1718,7 @@ any power of justification?
 (4) Whether it is a mortal sin to observe them after the coming of
 Christ?
 "
-102,QUESTION 104,OF THE JUDICIAL PRECEPTS,In Four Articles,"We must now consider the judicial precepts: and first of all we shall
+103,QUESTION 104,OF THE JUDICIAL PRECEPTS,In Four Articles,"We must now consider the judicial precepts: and first of all we shall
 consider them in general; in the second place we shall consider their
 reasons. Under the first head there are four points of inquiry:
 
@@ -1714,7 +1730,7 @@ reasons. Under the first head there are four points of inquiry:
 
 (4) Their division.
 "
-103,QUESTION 105,OF THE REASON FOR THE JUDICIAL PRECEPTS,In Four Articles,"We must now consider the reason for the judicial precepts: under
+104,QUESTION 105,OF THE REASON FOR THE JUDICIAL PRECEPTS,In Four Articles,"We must now consider the reason for the judicial precepts: under
 which head there are four points of inquiry:
 
 (1) Concerning the reason for the judicial precepts relating to the
@@ -1726,7 +1742,7 @@ rulers;
 
 (4) Concerning things relating to domestic matters.
 "
-104,QUESTION 106,"OF THE LAW OF THE GOSPEL, CALLED THE NEW LAW, CONSIDERED IN ITSELF",In Four Articles,"In proper sequence we have to consider now the Law of the Gospel
+105,QUESTION 106,"OF THE LAW OF THE GOSPEL, CALLED THE NEW LAW, CONSIDERED IN ITSELF",In Four Articles,"In proper sequence we have to consider now the Law of the Gospel
 which is called the New Law: and in the first place we must consider
 it in itself; secondly, in comparison with the Old Law; thirdly, we
 shall treat of those things that are contained in the New Law. Under
@@ -1743,7 +1759,7 @@ the world?
 (4) Of its end: i.e. whether it will last until the end, or will
 another law take its place?
 "
-105,QUESTION 107,OF THE NEW LAW AS COMPARED WITH THE OLD,In Four Articles,"We must now consider the New Law as compared with the Old: under
+106,QUESTION 107,OF THE NEW LAW AS COMPARED WITH THE OLD,In Four Articles,"We must now consider the New Law as compared with the Old: under
 which head there are four points of inquiry:
 
 (1) Whether the New Law is distinct from the Old Law?
@@ -1754,7 +1770,7 @@ which head there are four points of inquiry:
 
 (4) Which is the more burdensome, the New or the Old Law?
 "
-106,QUESTION 108,OF THOSE THINGS THAT ARE CONTAINED IN THE NEW LAW,In Four Articles,"We must now consider those things that are contained in the New Law:
+107,QUESTION 108,OF THOSE THINGS THAT ARE CONTAINED IN THE NEW LAW,In Four Articles,"We must now consider those things that are contained in the New Law:
 under which head there are four points of inquiry:
 
 (1) Whether the New Law ought to prescribe or to forbid any outward
@@ -1768,7 +1784,7 @@ sufficiently?
 
 (4) Whether it fittingly adds counsels to precepts?
 "
-107,QUESTION 109,OF THE NECESSITY OF GRACE,In Ten Articles,"We must now consider the exterior principle of human acts, i.e. God,
+108,QUESTION 109,OF THE NECESSITY OF GRACE,In Ten Articles,"We must now consider the exterior principle of human acts, i.e. God,
 in so far as, through grace, we are helped by Him to do right: and,
 first, we must consider the grace of God; secondly, its cause;
 thirdly, its effects.
@@ -1800,7 +1816,7 @@ without any further Divine help?
 
 (10) Whether he can of himself persevere in good?
 "
-108,QUESTION 110,OF THE GRACE OF GOD AS REGARDS ITS ESSENCE,In Four Articles,"We must now consider the grace of God as regards its essence; and
+109,QUESTION 110,OF THE GRACE OF GOD AS REGARDS ITS ESSENCE,In Four Articles,"We must now consider the grace of God as regards its essence; and
 under this head there are four points of inquiry:
 
 (1) Whether grace implies something in the soul?
@@ -1811,7 +1827,7 @@ under this head there are four points of inquiry:
 
 (4) Of the subject of grace.
 "
-109,QUESTION 111,OF THE DIVISION OF GRACE,In Five Articles,"We must now consider the division of grace; under which head there
+110,QUESTION 111,OF THE DIVISION OF GRACE,In Five Articles,"We must now consider the division of grace; under which head there
 are five points of inquiry:
 
 (1) Whether grace is fittingly divided into gratuitous grace and
@@ -1825,7 +1841,7 @@ sanctifying grace?
 
 (5) Of the comparison between sanctifying and gratuitous grace.
 "
-110,QUESTION 112,OF THE CAUSE OF GRACE,In Five Articles,"We must now consider the cause of grace; and under this head there
+111,QUESTION 112,OF THE CAUSE OF GRACE,In Five Articles,"We must now consider the cause of grace; and under this head there
 are five points of inquiry:
 
 (1) Whether God alone is the efficient cause of grace?
@@ -1839,7 +1855,7 @@ the recipient, by an act of free-will?
 
 (5) Whether anyone may know that he has grace?
 "
-111,QUESTION 113,OF THE EFFECTS OF GRACE,In Ten Articles,"We have now to consider the effect of grace; (1) the justification of
+112,QUESTION 113,OF THE EFFECTS OF GRACE,In Ten Articles,"We have now to consider the effect of grace; (1) the justification of
 the ungodly, which is the effect of operating grace; and (2) merit,
 which is the effect of cooperating grace. Under the first head there
 are ten points of inquiry:
@@ -1866,7 +1882,7 @@ sudden?
 
 (10) Whether the justification of the ungodly is miraculous?
 "
-112,QUESTION 114,OF MERIT,In Ten Articles,"We must now consider merit, which is the effect of cooperating grace;
+113,QUESTION 114,OF MERIT,In Ten Articles,"We must now consider merit, which is the effect of cooperating grace;
 and under this head there are ten points of inquiry:
 
 (1) Whether a man can merit anything from God?

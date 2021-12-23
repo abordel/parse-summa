@@ -11,6 +11,7 @@ def get_question_body(question, summa_text):
     Get all text under a question
     """
     question_number, question_text, question_subtext = question
+    question_text = question_text.replace('*','\*')
     question_text_re = r'{}\n+{}\n+\({}\)\n+'.format(question_number, question_text, question_subtext)
     question_text = re.search(question_text_re, summa_text)
     start_idx = question_text.end()
@@ -72,6 +73,7 @@ if __name__ == '__main__':
     question_df = pd.DataFrame(questions, columns=['question_number', 'question_text', 'question_subtext'])
     body_text = []
     for q in questions:
+        print(q)
         body_text.append(get_question_body(q, line))
     question_df['body_text'] = body_text
 
